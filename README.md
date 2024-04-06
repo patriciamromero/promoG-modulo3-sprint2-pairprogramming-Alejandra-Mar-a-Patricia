@@ -12,26 +12,31 @@ Librerías utilizadas: Pandas, NumPy, Matplotlib, Seaborn, SciPy, StatsModels
 Temas abarcados:
 
 Visualización de Datos
+
 Objetivo: Explorar y visualizar un conjunto de datos utilizando técnicas de visualización efectivas.
 
 Archivo: pair_visualizacion.ipynb
 
 Estadística Descriptiva
+
 Objetivo: Analizar y describir un conjunto de datos utilizando medidas estadísticas descriptivas.
 
 Archivo: pair_estadistica_descriptiva.ipynb
 
 Estadística Inferencial
+
 Objetivo: Aplicar pruebas estadísticas inferenciales para sacar conclusiones a partir de una muestra.
 
 Archivo: estadistica_inferencial.ipynb
 
 A/B Testing
+
 Objetivo: Diseñar y llevar a cabo pruebas A/B para comparar dos versiones de una característica y tomar decisiones basadas en datos.
 
 Archivo: AB_testing.ipynb
 
-ETL 
+ETL
+
 Objetivo: Extraer datos de diversas fuentes, transformarlos según sea necesario y cargarlos en un sistema de destino para su análisis posterior.
 
 Archivo: ETL_1.ipynb   y   ETL_2.ipynb   
