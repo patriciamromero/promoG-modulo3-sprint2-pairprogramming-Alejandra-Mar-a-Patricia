@@ -54,3 +54,4 @@ def exploracion_datos(csv):
     print("_______________")
     columnas = csv.columns
     print(f"Las columnas son {columnas}")
+# %%

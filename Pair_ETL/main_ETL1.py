@@ -1,4 +1,4 @@
 
 #%%
-import soporte_ETL1 as etl1
+from Pair_ETL import soporte_ETL1 as etl1
 # %%
